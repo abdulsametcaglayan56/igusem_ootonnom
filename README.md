@@ -1,2 +1,2 @@
-# igusem_ootonnom
+# igusem_otonom
 otonom
